@@ -1,4 +1,1 @@
-test;111;Андросов;Александр;alexandr.v.androsov@gmail.com;17;17
-androsov;123;Андросов;Александр;alexandr.v.androsov@gmail.com;67;45
-SnakeRND;1;1;1;1;1;
-qqq;111;111;111;111;111;
+
